@@ -79,8 +79,6 @@ Confidence Level: 8/10 (Usage steps will need adjusting once you finalize your c
 Contributing
 Contributions are welcome and appreciated! Whether you’re fixing a bug, proposing new features, or improving documentation, please open an issue or submit a pull request. For major changes, it’s best to discuss them first to ensure alignment with project goals.
 
-Confidence Level: 10/10 (Open collaboration fosters community and project success.)
-
 License
-This project is licensed under the MIT License—feel free to use and modify it in your own endeavors, provided you include proper attribution.
+This project is licensed under the GPL v3.0—feel free to use and modify it in your own endeavors, provided you include proper attribution.
 
